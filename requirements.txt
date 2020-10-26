@@ -1,0 +1,6 @@
+sys
+math
+numpy
+scipy
+random
+psychopy>3
